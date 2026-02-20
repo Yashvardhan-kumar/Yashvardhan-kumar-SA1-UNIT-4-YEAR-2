@@ -16,7 +16,7 @@ Target Audience:
 Cricket analysts, IPL fans, sports strategists, and decisionmakers interested in performance trends and match dynamics.
 
 
- 📊 Data Summary
+  Data Summary
  Data Sources
  `matches.csv` – Matchlevel information (season, venue, toss winner, match winner, etc.)
  `deliveries.csv` – Ballbyball match data (runs scored, wickets, players involved, etc.)
@@ -60,7 +60,7 @@ These datasets were connected in Tableau using the `match id` field to ensure ac
 
 
 
-  Dashboard Features
+Dashboard Features
 
 The Tableau dashboard includes the following visualizations:
 
@@ -100,7 +100,7 @@ The Tableau dashboard includes the following visualizations:
  Users can compare categories (teams, venues, seasons) directly through visual ranking.
 
 
- 🖼 Relevant Screenshots
+  Relevant Screenshots
 
 Below are screenshots from the project dashboard:
 
