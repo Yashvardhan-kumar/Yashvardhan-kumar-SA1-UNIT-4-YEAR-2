@@ -148,4 +148,4 @@ Tools Used
  Tableau (Data Visualization & Analysis)
  GitHub (Project Documentation & Version Control)
 
-Name: yashvardhan kumar IDAI101-240OMH0307 CRS: Artificial Intelligence Course: Critical & Creative Thinking School: Birla Open Minds International School
+Name: yashvardhan kumar IDAI101-240OMH0307 CRS: Artificial Intelligence School: Birla Open Minds International School
